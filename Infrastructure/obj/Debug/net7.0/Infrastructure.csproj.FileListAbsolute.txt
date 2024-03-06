@@ -1,0 +1,15 @@
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\bin\Debug\net7.0\ApplicationCore.dll
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\bin\Debug\net7.0\ApplicationCore.pdb
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastr.15EFFBFE.Up2Date
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

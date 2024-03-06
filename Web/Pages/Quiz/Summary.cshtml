@@ -1,0 +1,10 @@
+﻿@page "{quizId}/{itemId}"
+@model BackendLab01.Pages.Summary
+@{
+    ViewData["Title"] = "Summary";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h3>@ViewData["Title"]</h3>
+
+<p>Liczba poprawnych odpowiedzi udzielonych przez użytkownika: @Model.CorrectAnswersCount</p>

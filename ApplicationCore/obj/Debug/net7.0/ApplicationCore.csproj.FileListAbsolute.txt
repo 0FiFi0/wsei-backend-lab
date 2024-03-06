@@ -1,0 +1,11 @@
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\bin\Debug\net7.0\ApplicationCore.deps.json
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\bin\Debug\net7.0\ApplicationCore.dll
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\bin\Debug\net7.0\ApplicationCore.pdb
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfo.cs
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.dll
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll
