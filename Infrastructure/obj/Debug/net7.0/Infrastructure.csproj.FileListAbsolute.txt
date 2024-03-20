@@ -13,3 +13,4 @@ D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-0
 D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json

@@ -249,3 +249,4 @@ D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-0
 D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Web\obj\Debug\net7.0\Web.pdb
 D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Web\obj\Debug\net7.0\Web.genruntimeconfig.cache
 D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Web\obj\Debug\net7.0\ref\Web.dll
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Web\obj\Debug\net7.0\Web.sourcelink.json

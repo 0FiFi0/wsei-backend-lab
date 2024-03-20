@@ -9,3 +9,4 @@ D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-0
 D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
 D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
 D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll
+D:\Users\filip.oskwarek\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net7.0\ApplicationCore.sourcelink.json
